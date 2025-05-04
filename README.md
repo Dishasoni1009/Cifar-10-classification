@@ -1,0 +1,2 @@
+# Cifar-10-classification
+The CIFAR-10 dataset is a well-known benchmark in the field of computer vision and deep learning. It consists of 60,000 color images, each with a resolution of 32x32 pixels and three color channels (RGB). These images are divided into 10 different classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck. Each class has exactly 6,000 images, making the dataset well-balanced. Out of the total images, 50,000 are used for training and 10,000 for testing.
